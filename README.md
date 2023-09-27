@@ -24,9 +24,13 @@ Hola, soy Greys, estudio la carrera en **Ingeniería de Desarrollo de Software I
     - cdmx2510@amerike.edu.mx
 
 
-## Datos Personales
+## Información
 
 - **Nombre**: Grecia Lorena Morales Castillo
 - **Edad**: 20 años
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Greyslor&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="greys-shadir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Greyslor&show_icons=true&locale=en&theme=tokyonight" alt="greys-shadir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Greyslor&theme=tokyonight" alt="greys-shadir" /></p>
