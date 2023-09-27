@@ -24,7 +24,7 @@ Hola, soy Greys, estudio la carrera en **Ingeniería de Desarrollo de Software I
     - cdmx2510@amerike.edu.mx
 
 
-## Información
+## Información de GitHub
 
 - **Nombre**: Grecia Lorena Morales Castillo
 - **Edad**: 20 años
